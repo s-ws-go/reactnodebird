@@ -9,6 +9,7 @@ const NodeBird = ({ Component }) => {
       <Head>
         <title>NodeBird</title>
         {/* 깃허브 커밋 등록 되는지 테스트 */}
+        {/* 깃허브 커밋 등록 되는지 테스트22 */}
       </Head>
       <Component />
     </>
